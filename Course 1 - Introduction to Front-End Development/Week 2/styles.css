@@ -1,0 +1,11 @@
+#photo{
+    border: 2px;
+    border-color: solid blue;
+    width: 30px;
+}
+h2{
+    color: grey;
+}
+li{
+    margin: 4px;
+}
